@@ -14,5 +14,6 @@ create a keys.py file in the project directory containg following variables (rep
     access_token_secret = "XXX"
 
 Then you can:
+
     pip install tweepy
     python keys.py
