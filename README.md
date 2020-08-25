@@ -7,10 +7,12 @@ It needs to be lied to a existing dev Twitter account. The bot randomly choose a
 ## Installation
 
 create a keys.py file in the project directory containg following variables (replace XXX with your Twitter API keys):
+
     api_key = "XXX"
     api_secret_key = "XXX"
     access_token = "XXX"
     access_token_secret = "XXX"
 
+Then you can:
     pip install tweepy
     python keys.py
