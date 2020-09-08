@@ -16,4 +16,4 @@ create a keys.py file in the project directory containg following variables (rep
 Then you can:
 
     pip install tweepy
-    python keys.py
+    python bot.py
